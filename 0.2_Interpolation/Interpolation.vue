@@ -26,7 +26,7 @@ const prime = 0.50
 </template>
 
 
-<style>
+<style scoped>
 
 body {
     display: flex;
